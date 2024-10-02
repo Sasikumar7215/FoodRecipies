@@ -1,0 +1,12 @@
+.product{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+img{
+    height: 250px;
+    width: 300px;
+}
+.text{
+    float: right;
+}

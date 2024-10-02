@@ -1,0 +1,19 @@
+.header{
+    background-color: rgb(77, 81, 79);
+    height: 75px;
+    display: flex;
+    padding: 0 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--font-primary);
+}
+
+.user-image img{
+    width: 38px;
+    height: 38px;
+    border-radius: 20px;
+}
